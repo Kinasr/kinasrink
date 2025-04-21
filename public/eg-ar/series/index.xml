@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on الصفحة الرئيسية</title>
+    <link>http://localhost:1313/eg-ar/series/</link>
+    <description>Recent content in Series on الصفحة الرئيسية</description>
+    <generator>Hugo</generator>
+    <language>eg-ar</language>
+    <atom:link href="http://localhost:1313/eg-ar/series/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

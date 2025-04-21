@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://kinasr.github.io/kinasrink/'
 title = 'Home'
 
 theme = 'hugo-coder'
@@ -6,6 +6,11 @@ languageCode = "en"
 defaultContentLanguage = "en"
 enableRobotsTXT = true
 enableEmoji = true
+
+
+[caches]
+[caches.images]
+dir = ':cacheDir/images'
 
 [pagination]
 pagerSize = 6
